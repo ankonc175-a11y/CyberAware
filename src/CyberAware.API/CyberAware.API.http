@@ -1,0 +1,6 @@
+@CyberAware.API_HostAddress = http://localhost:5277
+
+GET {{CyberAware.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
