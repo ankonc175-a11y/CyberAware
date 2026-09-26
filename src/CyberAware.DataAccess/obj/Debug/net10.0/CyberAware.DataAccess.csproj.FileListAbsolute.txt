@@ -12,3 +12,4 @@ C:\Users\Maverick\CyberAware\src\CyberAware.DataAccess\obj\Debug\net10.0\ref\Cyb
 C:\Users\Maverick\CyberAware\src\CyberAware.DataAccess\bin\Debug\net10.0\CyberAware.DataAccess.runtimeconfig.json
 C:\Users\Maverick\CyberAware\src\CyberAware.DataAccess\obj\Debug\net10.0\CyberAware.DataAccess.csproj.AssemblyReference.cache
 C:\Users\Maverick\CyberAware\src\CyberAware.DataAccess\obj\Debug\net10.0\CyberAware.DataAccess.genruntimeconfig.cache
+C:\Users\Maverick\CyberAware\src\CyberAware.DataAccess\obj\Debug\net10.0\CyberAware.DataAccess.sourcelink.json

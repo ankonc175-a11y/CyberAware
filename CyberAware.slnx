@@ -1,7 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/CyberAware.API/CyberAware.API.csproj" />
-    <Project Path="src/CyberAware.Business/CyberAware.Business.csproj" />
-    <Project Path="src/CyberAware.DataAccess/CyberAware.DataAccess.csproj" />
-  </Folder>
-</Solution>
