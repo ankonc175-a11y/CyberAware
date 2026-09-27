@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maverick\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj": {}
+    "C:\\Users\\Student\\source\\repos\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maverick\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj": {
+    "C:\\Users\\Student\\source\\repos\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maverick\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\source\\repos\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj",
         "projectName": "CyberAware.DataAccess",
-        "projectPath": "C:\\Users\\Maverick\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Maverick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maverick\\CyberAware\\src\\CyberAware.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Student\\source\\repos\\CyberAware\\src\\CyberAware.DataAccess\\CyberAware.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\source\\repos\\CyberAware\\src\\CyberAware.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Maverick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -38,12 +37,10 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.400"
+        }
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
@@ -68,26 +65,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.31, 8.0.31]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.31, 8.0.31]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.31, 8.0.31]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

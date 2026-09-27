@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberAware.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98a065ed96eee0d731a669c5329c79a3115b7361")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a78def7c13863ffc319441583a679116dde3e636")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberAware.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberAware.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

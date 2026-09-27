@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NV3NaZUPwQJXM09Vh/zxZXGVy+XgDkzWSAymkfqxAPs=",
+  "Source": "CyberAware.API",
+  "BasePath": "_content/CyberAware.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
