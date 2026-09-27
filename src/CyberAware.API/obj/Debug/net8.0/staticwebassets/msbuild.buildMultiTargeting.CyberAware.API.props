@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CyberAware.API.props" />
-</Project>
