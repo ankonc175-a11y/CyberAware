@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberAware.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c766f42695d23c4c557130db7d13a2850cf96aec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98a065ed96eee0d731a669c5329c79a3115b7361")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberAware.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberAware.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
